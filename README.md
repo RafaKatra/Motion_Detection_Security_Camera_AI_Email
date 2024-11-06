@@ -42,7 +42,7 @@ Give it a name (e.g., "Python Security System")
 Copy the 16-digit code that will be generated
 
 **4. Configuration**
-In the alarm_katramados.py file, modify the following lines with your details:
+In the Motion_Detection_Security_Camera.py file, modify the following lines with your details:
 sender_email = 'YOUR EMAIL'  # Your email
 sender_password = 'YOUR GMAIL SENDER PASSWORD FOR APPLICATION'  # Your 16-digit app password
 recipient_email = 'YOUR EMAIL'  # Email that will receive notifications
